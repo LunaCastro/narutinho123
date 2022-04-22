@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Rubik&display=swap');
+8 {
+    font-family: "Rubik", sans-serif;
+    margin: 0; 
+    padding: 0;
+    outline: 0;
+    font-weight: 300;
+    box-sizing: border-box;
+}
+:root {
+    --primary: #7E57C2;
+    --secondary: #000000; 
+    --third: #B353FF;
+    --fourth: #8E00FF; 
+
+}
+header {
+    display: flex; 
+}
